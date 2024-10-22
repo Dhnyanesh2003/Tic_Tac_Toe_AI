@@ -16,7 +16,7 @@ Tkinter (usually included with Python installations)
 Installation
 
 Clone this repository:
-git clone https://github.com/Dhnyanesh2003/tic-tac-toe.git
+git clone(https://github.com/Dhnyanesh2003/Tic_Tac_Toe_AI/blob/main/Tic.py)
 
 Choose to play against the AI. Click on the buttons to make your moves. The AI will respond according to the selected difficulty level.
 How It Works
